@@ -12,8 +12,7 @@
 💡 &nbsp;I enjoy creating intuitive user interfaces, exploring modern frontend technologies, and building responsive, user-friendly web applications.\
 🎓 &nbsp;I am currently studying the 10th semester of Systems Engineering at the National Open and Distance University of Colombia.\
 🌱 &nbsp;I'm focused on deepening my knowledge of modern frontend frameworks, UI/UX design principles, and performance optimization for web applications.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✍️ &nbsp;In my free time, I enjoy refining web designs and contributing to personal frontend projects to enhance user experiences.\
 ✉️ &nbsp;You can shoot me an email at stevenalvarezvillamizar14@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://smallpdf.com/es/file#s=6cddd350-4091-4d98-ae3c-5b24c1e5cf28) for more details about me. I'm open to feedback and suggestions!
 
