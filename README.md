@@ -45,5 +45,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tu-usuario" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Steven%20Alvarez%20Villamizar-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:stevenalvarezvillamizar13@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-stevenalvarezvillamizar14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+
+
