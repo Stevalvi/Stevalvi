@@ -35,8 +35,8 @@
 
 
 ### 💼 &nbsp;Featured Projects
-- [Control de gastos](https://controldegastos-react-typescript.netlify.app/): A brief description of what this project does.
-- [Contador de calorías](https://contadordecalorias-react-typescript.netlify.app/): A brief description of what this project does.
+- [expense planner](https://controldegastos-react-typescript.netlify.app/): Este proyecto es una aplicación web que permite a los usuarios gestionar su presupuesto de manera sencilla. Los usuarios pueden definir un presupuesto inicial y agregar gastos según categorías específicas como alimentación, transporte, ocio, entre otros. La aplicación incluye gestos intuitivos, como deslizar a la izquierda para eliminar un gasto o a la derecha para actualizarlo. El diseño está pensado para ser eficiente y fácil de usar, brindando un seguimiento claro de los gastos en tiempo real.
+- [calorie counter](https://contadordecalorias-react-typescript.netlify.app/): Este proyecto es una aplicación CRUD que permite a los usuarios registrar y gestionar sus actividades diarias, ya sean comidas o ejercicios. Las actividades se guardan en localStorage, y se reflejan en tiempo real en la interfaz. A medida que se agregan alimentos con sus calorías consumidas y ejercicios con calorías quemadas, la aplicación calcula automáticamente la diferencia, ayudando a los usuarios a llevar un control balanceado de su ingesta y gasto calórico. La interfaz es sencilla y fácil de usar, permitiendo crear, actualizar o eliminar actividades de manera eficiente.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
