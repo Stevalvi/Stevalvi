@@ -33,10 +33,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
 
 ### 💼 &nbsp;Featured Projects
-- [expense planner](https://controldegastos-react-typescript.netlify.app/): Este proyecto es una aplicación web que permite a los usuarios gestionar su presupuesto de manera sencilla. Los usuarios pueden definir un presupuesto inicial y agregar gastos según categorías específicas como alimentación, transporte, ocio, entre otros. La aplicación incluye gestos intuitivos, como deslizar a la izquierda para eliminar un gasto o a la derecha para actualizarlo. El diseño está pensado para ser eficiente y fácil de usar, brindando un seguimiento claro de los gastos en tiempo real.
-- [calorie counter](https://contadordecalorias-react-typescript.netlify.app/): Este proyecto es una aplicación CRUD que permite a los usuarios registrar y gestionar sus actividades diarias, ya sean comidas o ejercicios. Las actividades se guardan en localStorage, y se reflejan en tiempo real en la interfaz. A medida que se agregan alimentos con sus calorías consumidas y ejercicios con calorías quemadas, la aplicación calcula automáticamente la diferencia, ayudando a los usuarios a llevar un control balanceado de su ingesta y gasto calórico. La interfaz es sencilla y fácil de usar, permitiendo crear, actualizar o eliminar actividades de manera eficiente.
+- [expense planner](https://controldegastos-react-typescript.netlify.app/): This project is a web application that allows users to manage their budget in a simple way. Users can set an initial budget and add expenses under specific categories such as food, transportation, entertainment, and more. The application includes intuitive gestures, such as swiping left to delete an expense or swiping right to update it. The design is intended to be efficient and user-friendly, providing clear real-time tracking of expenses.
+- [calorie counter](https://contadordecalorias-react-typescript.netlify.app/): This project is a CRUD application that allows users to log and manage their daily activities, whether meals or exercises. Activities are saved in localStorage and reflected in real-time on the interface. As users add foods with their consumed calories and exercises with calories burned, the application automatically calculates the difference, helping users maintain a balanced control of their calorie intake and expenditure. The interface is simple and easy to use, allowing users to create, update, or delete activities efficiently.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
