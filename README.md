@@ -34,6 +34,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
+### 💼 &nbsp;Featured Projects
+- [Control de gastos](https://controldegastos-react-typescript.netlify.app/): A brief description of what this project does.
+- [Contador de calorías](https://contadordecalorias-react-typescript.netlify.app/): A brief description of what this project does.
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
