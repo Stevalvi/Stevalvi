@@ -10,8 +10,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I enjoy creating intuitive user interfaces, exploring modern frontend technologies, and building responsive, user-friendly web applications.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I am currently studying the 10th semester of Systems Engineering at the National Open and Distance University of Colombia.\
+🌱 &nbsp;I'm focused on deepening my knowledge of modern frontend frameworks, UI/UX design principles, and performance optimization for web applications.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at stevenalvarezvillamizar14@gmail.com! I'll try to respond as soon as I can.\
