@@ -1,9 +1,9 @@
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
 <p>
   <h1 align="center"><b>Hello, I'm Steven Alvarez👋</b></h1>
 </p>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Steven -->
 
