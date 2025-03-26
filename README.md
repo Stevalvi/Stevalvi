@@ -27,6 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 <br>
 
 ### 💼 &nbsp;Featured Projects
